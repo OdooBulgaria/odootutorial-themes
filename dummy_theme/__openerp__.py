@@ -2,8 +2,9 @@
     # Theme information
     'name': "Dummy theme",
     'description': """
+        Dummy Theme
     """,
-    'category': 'Theme',
+    'category': 'Website',
     'version': '1.0',
     'depends': ['website'],
 
@@ -15,6 +16,7 @@
     ],
 
     # Your information
-    'author': "Your Company",
-    'website': "",
+    'author': "OPDevel",
+    'website': "www.opdevel.com",
+    'application': True,
 }
