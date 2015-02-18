@@ -14,4 +14,10 @@
         </div>
     </t>
 </template>
+
+<template id="dummy_theme_asset" name="website assete for Dummy theme" inherit_id="website.theme">
+    <xpath expr="." position="inside">
+        <link rel="stylesheet" href="/dummy_theme/static/style/custom.css"/>
+    </xpath>
+</template>
 </data></openerp>
