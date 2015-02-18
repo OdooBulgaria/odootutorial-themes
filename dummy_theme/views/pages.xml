@@ -14,6 +14,11 @@
                         <div class="col-md-6 bg-green">
                             <h2>GREEN THAT!</h2>
                         </div>
+                        <div class="col-md-12 text-center mt32 mb32">
+                            <h2>A great Title</h2>
+                            <h3 class="text-muted ">And a greate subtigle too</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </p>
+                        </div>
                     </div>
                 </div>
             </section>
