@@ -1,6 +1,8 @@
+<openerp><data>
 <template id="website.hello" name="Homepage" page="True">
     <t t-call="website.layout">
         <div id="wrap" class="oe_structure oe_empty">
         </div>
     </t>
-</template></div></t></template>
+</template>
+</data></openerp>
