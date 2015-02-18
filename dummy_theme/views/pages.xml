@@ -2,6 +2,15 @@
 <template id="website.hello" name="Homepage" page="True">
     <t t-call="website.layout">
         <div id="wrap" class="oe_structure oe_empty">
+            <section>
+                <div class="container">
+                    <div class="row">
+                        <h1>This is Your Content</h1>
+                        <p>Isn't amazing to edit everything inline?</p>
+                        <hr/>
+                    </div>
+                </div>
+            </section>
         </div>
     </t>
 </template>
