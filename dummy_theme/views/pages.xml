@@ -5,9 +5,15 @@
             <section>
                 <div class="container">
                     <div class="row">
-                        <h1>This is Your Content</h1>
-                        <p>Isn't amazing to edit everything inline?</p>
-                        <hr/>
+                        <div class="alert alert-primary" role="alert">
+                            <a href="#" class="alert-link">...</a>
+                        </div>
+                        <div class="col-md-6 bg-blue">
+                            <h2>BLUE it!</h2>
+                        </div>
+                        <div class="col-md-6 bg-green">
+                            <h2>GREEN THAT!</h2>
+                        </div>
                     </div>
                 </div>
             </section>
